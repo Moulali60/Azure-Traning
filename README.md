@@ -9,3 +9,5 @@ This Azure Traning Branch.
 Updated Remote Branch.
 
 This is Moulali branch.
+
+Today is Sunday.
