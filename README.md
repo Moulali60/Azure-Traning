@@ -4,7 +4,7 @@ Hi Friends,
 
 ************Welcome To My Repo************
 
-This Azure Traning Branch.
+This is Azure Traning Branch.
 
 Updated Remote Branch.
 
